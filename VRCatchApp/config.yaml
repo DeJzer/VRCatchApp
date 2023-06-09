@@ -1,0 +1,13 @@
+#If you want to prevent some apps to catch by script you can list them here, you can give it to them unique message too or set special text for selected apps.
+#Don't touch first process or program will start spamming it (I don't know how to fix it lol) 
+blocked_processes:
+  - process: Don't touch this!
+    message: Don't touch this!
+  - process: explorer
+    message: Doin' somethin'...
+  - process: Telegram
+    message: Secret chat...
+  - process: Discord
+    message: Chatting with friends    
+#  - process: VRChat
+#    message: ➡️ In app: here 
