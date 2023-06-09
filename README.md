@@ -12,6 +12,6 @@ Open ``VRCatchApp.bat``. if you installed everything correctly script should wor
 ## Config
 If you want to prevent script from catching some apps or maybe change text of them you need to specify in config `VRCatchApp/config.yaml`.
 
-### FAQ
+## FAQ
 
 Damn, for what? If you have errors be sure you installed correct version of python and PIP by checking mark at the bottom when installing python.
