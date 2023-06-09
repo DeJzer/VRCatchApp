@@ -5,7 +5,7 @@ Script that I made to catch apps that are running in the background and send to 
 - Python(https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe) **with pip installed!**
 - Enabled OSC in VRChat
 
-### How to use
+# How to use
 ## Installing
 Open ``VRCatchApp.bat``. if you installed everything correctly script should work.
 
